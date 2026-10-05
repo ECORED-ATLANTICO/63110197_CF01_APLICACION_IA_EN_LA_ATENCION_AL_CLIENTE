@@ -2,13 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
+    p.mb-4 El componente formativo IA, datos y cliente digital aborda los datos estratégicos, su valor, fuentes digitales, ciclo y gestión; continúa con el estudio del cliente digital desde el perfil, comportamiento, segmentación y experiencia; desarrolla las métricas web, incluyendo métricas e indicadores (KPI), tráfico y conversión; analiza la rentabilidad digital a partir de la conversión, adquisición, ROI y optimización; profundiza en el análisis y las decisiones mediante la interpretación de resultados y la toma de decisiones basadas en datos; y finaliza con la visualización a través de tableros de control y reportes estratégicos.
     
-
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt="La figura presenta la estructura temática del componente formativo IA, datos y cliente digital, integrando aspectos relacionados con el aprovechamiento de datos, conocimiento del cliente, medición del desempeño digital, rentabilidad, análisis para la toma de decisiones y visualización de información. En conjunto, muestra cómo estos elementos se articulan para comprender el comportamiento del cliente, evaluar resultados y utilizar información relevante para orientar decisiones y fortalecer los procesos de atención en entornos digitales. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

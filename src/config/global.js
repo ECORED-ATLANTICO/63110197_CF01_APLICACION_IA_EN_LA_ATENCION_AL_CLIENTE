@@ -1,17 +1,26 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
+    Name: 'IA, datos y cliente digital',
+    Description:
+      'El componente formativo desarrolla competencias para gestionar datos estratégicos, comprender el comportamiento del cliente digital, aplicar métricas web y KPI, evaluar la rentabilidad mediante conversión y ROI, interpretar resultados y tomar decisiones basadas en datos, utilizando herramientas de visualización como tableros de control y reportes estratégicos',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.png',
       },
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.png',
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-3.png',
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-4.png',
       },
     ],
   },
@@ -31,13 +40,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Datos estratégicos ',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Valor y fuentes digitales ',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Ciclo y gestión del dato ',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,26 +59,92 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Cliente digital ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Perfil y comportamiento ',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Segmentación y experiencia ',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Métricas web ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Métricas e indicadores (KPI) ',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Tráfico y conversión ',
+            hash: 't_3_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Rentabilidad digital ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Conversión y adquisición ',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'ROI y optimización ',
+            hash: 't_4_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo: 'Análisis y decisiones ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Interpretación de resultados ',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Decisiones basadas en datos ',
+            hash: 't_5_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Visualización ',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Tableros de control ',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Reportes estratégicos ',
+            hash: 't_6_2',
+          },
+        ],
       },
     ],
     subMenu: [
