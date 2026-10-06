@@ -6,6 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Cliente digital
+    
     img(src="@/assets/curso/tema2/1.png", alt="", data-aos="zoom-in-down")  
     .row.justify-content-center.z-2
       .col-lg-10.p-4

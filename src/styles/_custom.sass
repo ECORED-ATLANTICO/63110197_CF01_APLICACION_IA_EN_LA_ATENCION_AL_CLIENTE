@@ -84,6 +84,8 @@ figcaption, table caption
   background-color: $color-acento-contenido-a20
 .bg-sistema-h
   background-color: $color-sistema-h
+.bg-contenido-a5
+  background-color: $color-acento-contenido-a5
 
 .bg-img
   background-size: cover
@@ -103,6 +105,11 @@ figcaption, table caption
     @media screen and (min-width: $bp-min-xl)
       background-color: transparent
       background-image: url('../assets/curso/common/bg-5.png')
+  &--4
+    background-color: $color-acento-contenido-a10
+    @media screen and (min-width: $bp-min-xl)
+      background-color: transparent
+      background-image: url('../assets/curso/common/bg-6.png')
 
 .imgw-50
   width: 50px
@@ -253,3 +260,17 @@ figcaption, table caption
   position: absolute
   top: -80px
   left: 0
+
+.tarjeta-audio
+  background-color: $white
+  &__texto
+    color: $color-sistema-texto !important
+
+  .tarjeta-audio__input input[type=range]
+    background-color: $color-acento-contenido !important
+
+  .audio__btn
+    background-color: $color-acento-botones !important
+
+  &__tiempo
+    color: $color-sistema-texto !important
