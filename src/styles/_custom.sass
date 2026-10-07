@@ -209,6 +209,8 @@ figcaption, table caption
       background-color: $color-terciario-t10
       h4
         color: $color-sistema-texto
+      &.bg-contenido-a10
+        background-color: $color-acento-contenido-a10
   .crd_hover_txt--body
     position: absolute
     padding: 1.5rem
@@ -217,6 +219,8 @@ figcaption, table caption
     transform: translateY(calc( 100% - 3.28rem ))
     background-color: $color-terciario-t10
     font-size: 1em
+    &.bg-contenido-a10
+      background-color: $color-acento-contenido-a10
 
 .accesibilidad
   z-index: 3
@@ -290,3 +294,35 @@ figcaption, table caption
 
   &__tiempo
     color: $color-sistema-texto !important
+
+.slyder-f
+  align-items: center
+  border-radius: 20px
+
+  .slyder-f__main
+    width: 70%
+
+    @media (min-width: 769px)
+      width: 80%
+  
+  .tarjeta
+    inner-shadow: 1px 1px 1px 1px $color-primario-p5 !important
+
+.slyder-f__btn
+  height: 46px
+  width: 46px
+  max-width: 46px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  margin: 0 auto
+  .fa-chevron-left
+    font-size: 18px
+  .fa-chevron-right
+    font-size: 18px
+
+.tabs-c__content-item
+  background-color: #F7F7F7
+
+.tabs-c__header
+  margin-bottom: 0

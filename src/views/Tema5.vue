@@ -116,7 +116,7 @@
       span Toma de decisiones basada en datos
     img.mb-4.d-sm-none.z-2(data-aos="fade-up", src="@/assets/curso/tema5/11-mob.png", alt="La figura representa un ciclo continuo para orientar la toma de decisiones basada en datos. El proceso inicia con la identificación de una situación, continúa con la obtención y análisis de información, la comparación de posibles alternativas y la ejecución de la decisión seleccionada. Finalmente, incorpora el seguimiento de los resultados para generar aprendizajes y realizar ajustes. En conjunto, muestra cómo los datos apoyan decisiones más estructuradas, justificadas y orientadas a la mejora continua")
     img.mb-4.d-none.d-sm-block.z-2(data-aos="fade-up", src="@/assets/curso/tema5/11.png", alt="La figura representa un ciclo continuo para orientar la toma de decisiones basada en datos. El proceso inicia con la identificación de una situación, continúa con la obtención y análisis de información, la comparación de posibles alternativas y la ejecución de la decisión seleccionada. Finalmente, incorpora el seguimiento de los resultados para generar aprendizajes y realizar ajustes. En conjunto, muestra cómo los datos apoyan decisiones más estructuradas, justificadas y orientadas a la mejora continua")
-          
+
     p.mb-4.z-2 Este ciclo transforma la gestión en un proceso dinámico y adaptable. 
 
     .bg-secundario-s5.p-4.rounded-4.py-3.mb-4.z-2
