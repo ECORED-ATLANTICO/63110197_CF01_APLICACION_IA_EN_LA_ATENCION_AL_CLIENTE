@@ -189,14 +189,158 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Adquisición',
+      significado:
+        'Proceso de captar nuevos clientes mediante estrategias digitales.',
+    },
+    {
+      termino: 'Algoritmo',
+      significado:
+        'Conjunto de reglas que procesan datos para generar resultados automáticos.',
+    },
+    {
+      termino: 'Análisis de datos',
+      significado:
+        'Proceso de examinar información para obtener conclusiones útiles.',
+    },
+    {
+      termino: '<em>Big data</em>',
+      significado:
+        'Grandes volúmenes de datos que requieren herramientas especializadas para su procesamiento.',
+    },
+    {
+      termino: 'Cliente digital',
+      significado:
+        'Usuario que interactúa con marcas a través de entornos digitales.',
+    },
+    {
+      termino: 'Conversión',
+      significado:
+        'Acción en la que un usuario cumple el objetivo esperado en un canal digital.',
+    },
+    {
+      termino: 'Costo por adquisición (CPA)',
+      significado:
+        'Inversión promedio necesaria para obtener un nuevo cliente.',
+    },
+    {
+      termino: 'Dato estratégico',
+      significado:
+        'Información relevante que apoya la toma de decisiones organizacionales.',
+    },
+    {
+      termino: 'Decisiones basadas en datos',
+      significado:
+        'Elección de acciones sustentadas en evidencia cuantificable.',
+    },
+    {
+      termino: 'Experiencia del cliente',
+      significado:
+        'Percepción generada por la interacción del usuario con la marca.',
+    },
+    {
+      termino: 'Fuentes digitales',
+      significado:
+        'Canales en línea que generan datos como sitios web y redes sociales.',
+    },
+    {
+      termino: 'Indicador',
+      significado: 'Variable que permite medir el desempeño de un proceso.',
+    },
+    {
+      termino: 'Interpretación de resultados',
+      significado:
+        'Análisis de métricas para comprender su impacto y significado.',
+    },
+    {
+      termino: 'KPI',
+      significado:
+        'Indicador clave de desempeño alineado con objetivos estratégicos.',
+    },
+    {
+      termino: 'Métrica web',
+      significado:
+        'Medición cuantitativa del comportamiento en entornos digitales.',
+    },
+    {
+      termino: 'Optimización',
+      significado:
+        'Proceso de mejora continua para aumentar eficiencia y resultados.',
+    },
+    {
+      termino: 'Perfil digital',
+      significado:
+        'Conjunto de características y comportamientos del usuario en línea.',
+    },
+    {
+      termino: 'Rentabilidad digital',
+      significado:
+        'Capacidad de generar beneficios económicos en canales digitales.',
+    },
+    {
+      termino: 'ROI',
+      significado:
+        'Retorno sobre la inversión que mide la ganancia obtenida frente al gasto realizado.',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'División del mercado en grupos con características similares.',
+    },
+    {
+      termino: 'Tablero de control',
+      significado:
+        'Herramienta visual que integra indicadores clave en tiempo real.',
+    },
+    {
+      termino: 'Tasa de conversión',
+      significado: 'Porcentaje de usuarios que realizan la acción deseada.',
+    },
+    {
+      termino: 'Toma de decisiones',
+      significado:
+        'Proceso de seleccionar acciones con base en análisis previo.',
+    },
+    {
+      termino: 'Tráfico web',
+      significado: 'Cantidad de visitantes que ingresan a un sitio digital.',
+    },
+    {
+      termino: 'Visualización de datos',
+      significado:
+        'Representación gráfica de información para facilitar su comprensión.',
     },
   ],
   referencias: [
     {
-      referencia: 'REF',
-      link: 'LINK',
+      referencia:
+        'Chunir-Panjon, R. P., Vásquez-Erazo, E. J., & Álvarez-Gavilanes, J. E. (2024). Analítica web y métricas de resultados: evaluación de la efectividad de las estrategias digitales. <em>Revista Metropolitana de Ciencias Aplicadas</em>, <em>7</em>(2), 155-164.',
+      link: 'https://remca.umet.edu.ec/index.php/REMCA/article/view/462',
+    },
+    {
+      referencia:
+        'Comunicación Digital. (2017). <em>Manual de marketing digital para formadores</em>. Comunicación Digital.',
+      link: 'https://comunicaciondigital.com.co/wp-content/uploads/2020/04/manual-marketing-digital.pdf',
+    },
+    {
+      referencia:
+        'Gómez, J. (2019). <em>Métricas digitales y KPI: Guía práctica para la gestión y medición del rendimiento online</em>. Editorial Académica Española.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kaushik, A. (2011). <em>Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente</em>. Gestión 2000.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodríguez, M., & Sánchez, P. (2020). <em>Marketing digital y analítica web: Conceptos, métricas y estrategias</em>. Ediciones Gestión Actual.',
+      link: '',
+    },
+    {
+      referencia:
+        'SENA. (2025). <em>Guía de gestión de datos y métricas digitales</em>. Servicio Nacional de Aprendizaje.',
+      link: '',
     },
   ],
   creditos: [
