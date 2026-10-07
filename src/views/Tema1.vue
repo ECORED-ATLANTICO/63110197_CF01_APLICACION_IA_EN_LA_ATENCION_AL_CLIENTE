@@ -324,7 +324,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Metodologías de trabajo y ciclo de vida de los datos – Data Science
+                  h4.mb-1 Metodologías de trabajo y ciclo de vida de los datos - Data Science
                   p.mb-0 Dar clic en el enlace de este video para continuar con la explicación del ciclo de vida del dato y comprender de manera más amplia cómo se implementa la gestión de datos a lo largo de sus diferentes fases: 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=shdBRha_fi4" target="_blank")

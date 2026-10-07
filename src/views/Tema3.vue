@@ -188,12 +188,23 @@
                 :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
+    .row.justify-content-center.z-2
+      .col-xl-10
+        .tarjeta.bg-secundario-s5.p-4.py-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.position-relative.d-none.d-lg-block
+              figure.position-relative
+                img.position-custom(src="@/assets/curso/tema1/31.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-1 Los 5 Kpis - Métricas fundamentales en #[em marketing] digital
+                  p.mb-0 Puede acceder al material a través del siguiente enlace disponible en YouTube, el cual complementa los contenidos abordados, ofreciendo explicaciones y ejemplos prácticos que fortalecen la comprensión del tema: 
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hq18b03whBs" target="_blank")
+                    span Ir al recurso
+                    i.fas.fa-file-download
 
-
-
-
-
- 
 
 </template>
 
