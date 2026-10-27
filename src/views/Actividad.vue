@@ -353,7 +353,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El tráfico directo proviene de usuarios que ingresan directamente al sitio web.',
+            'El tráfico directo proviene de usuarios que ingresan directamente al sitio web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -617,7 +617,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las decisiones basadas en datos utilizan información verificable para orientar acciones.',
+            'Las decisiones basadas en datos utilizan información verificable para orientar acciones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -684,7 +684,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los datos aportan información valiosa para la planeación, el análisis y la toma de decisiones organizacionales.',
+            'Los datos aportan información valiosa para la planeación, el análisis y la toma de decisiones organizacionales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

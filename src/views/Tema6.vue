@@ -225,7 +225,7 @@
                   h4.mb-1 Análisis de desempeño digital – Nativa Verde 
                   p.mb-0 A manera de informe estratégico, se presenta indicadores clave, comportamiento del cliente y eficiencia del embudo digital para ilustrar cómo identificar oportunidades de optimización de Nativa Verde S.A.S.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Analisis-desempeno.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Analisis_Desempeno_Digital_Nativa_Verde.pdf')" target="_blank")
                     span Ir al recurso
                     i.fas.fa-file-download
 

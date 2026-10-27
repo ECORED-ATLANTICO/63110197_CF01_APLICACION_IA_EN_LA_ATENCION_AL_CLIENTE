@@ -175,7 +175,7 @@
               TarjetaAudio.mb-3(
                 texto="“Charlas que venden” tema: “Decisiones y rentabilidad digital”."
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/63110197_CF01_Podcast_02.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
 </template>

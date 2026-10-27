@@ -43,7 +43,7 @@
       .col-lg-8
         p En el ámbito web, los KPI pueden clasificarse en diferentes categorías según el tipo de resultado que evalúan. Los KPI de tráfico miden el alcance del sitio, incluyendo indicadores como visitantes únicos, páginas vistas y tasa de rebote.
         .bg-contenido-a5.p-4.rounded-4.py-3
-          p.mb-0 Los KPI de interacción analizan el nivel de participación del usuario, considerando métricas como clics, tiempo de permanencia en la página y descargas de contenido. Por su parte, los KPI de conversión evalúan la efectividad en la generación de acciones de valor, como la captación de leads, compras o suscripciones.  
+          p.mb-0 Los KPI de interacción analizan el nivel de participación del usuario, considerando métricas como clics, tiempo de permanencia en la página y descargas de contenido. Por su parte, los KPI de conversión evalúan la efectividad en la generación de acciones de valor, como la captación de #[em leads], compras o suscripciones.  
  
     p.mb-4.z-2 Finalmente, los KPI de rendimiento de campañas permiten medir la eficacia de acciones publicitarias mediante indicadores como el CTR (#[em Click Through Rate]) y el retorno de inversión (ROI) digital. 
 
@@ -131,12 +131,12 @@
               tr(style="background-color: #E8EFFE")
                 td #[strong Tasa de conversión]
                 td % de visitantes que realizan la acción deseada 
-                td 7.5% de visitantes compran 
+                td 7.5 % de visitantes compran 
                 td Mejorar #[em landing page] y experiencia de usuario
               tr
                 td #[strong #[em Leads] generados]
                 td Número de registros de clientes potenciales 
-                td 300 leads capturados por formulario 
+                td 300 #[em leads] capturados por formulario 
                 td Campañas de seguimiento y #[em lead nurturing] 
               tr(style="background-color: #E8EFFE")
                 td #[strong Carrito abandonado]
@@ -174,7 +174,7 @@
               figure
                 img(src="@/assets/curso/tema2/3.png", alt="")
       .col-lg-6
-        p Con esta información, ajusta campañas pagadas, mejora páginas de aterrizaje y optimiza la oferta de contenido gratuito para aumentar la conversión de visitantes en #[em Leads] y clientes. 
+        p Con esta información, ajusta campañas pagadas, mejora páginas de aterrizaje y optimiza la oferta de contenido gratuito para aumentar la conversión de visitantes en #[em leads] y clientes. 
         .bg-audio.rounded-4.p-4
           .row.align-items-center.justify-content-center
             .col-8.col-sm-3
@@ -185,7 +185,7 @@
               TarjetaAudio.mb-3(
                 texto="“Charlas que venden” Episodio: “Métricas web”"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/63110197_CF01_Podcast_01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
     .row.justify-content-center.z-2
