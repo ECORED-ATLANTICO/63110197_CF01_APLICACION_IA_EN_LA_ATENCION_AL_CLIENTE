@@ -173,7 +173,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/63110197_CF01_CFA.zip',
       },
       {
         icono: 'fas fa-download',
@@ -314,32 +314,32 @@ export default {
   referencias: [
     {
       referencia:
-        'Chunir-Panjon, R. P., Vásquez-Erazo, E. J., & Álvarez-Gavilanes, J. E. (2024). Analítica web y métricas de resultados: evaluación de la efectividad de las estrategias digitales. <em>Revista Metropolitana de Ciencias Aplicadas</em>, <em>7</em>(2), 155-164.',
+        'Chunir-Panjon, R. P., Vásquez-Erazo, E. J., & Álvarez-Gavilanes, J. E. (2024). Analítica web y métricas de resultados: evaluación de la efectividad de las estrategias digitales. Revista Metropolitana de Ciencias Aplicadas, 7(2), 155-164.',
       link: 'https://remca.umet.edu.ec/index.php/REMCA/article/view/462',
     },
     {
       referencia:
-        'Comunicación Digital. (2017). <em>Manual de marketing digital para formadores</em>. Comunicación Digital.',
+        'Comunicación Digital. (2017). Manual de <em>marketing</em> digital para formadores. Comunicación Digital.',
       link: 'https://comunicaciondigital.com.co/wp-content/uploads/2020/04/manual-marketing-digital.pdf',
     },
     {
       referencia:
-        'Gómez, J. (2019). <em>Métricas digitales y KPI: Guía práctica para la gestión y medición del rendimiento online</em>. Editorial Académica Española.',
+        'Gómez, J. (2019). Métricas digitales y KPI: Guía práctica para la gestión y medición del rendimiento <em>online</em>. Editorial Académica Española.',
       link: '',
     },
     {
       referencia:
-        'Kaushik, A. (2011). <em>Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente</em>. Gestión 2000.',
+        'Kaushik, A. (2011). Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente. Gestión 2000.',
       link: '',
     },
     {
       referencia:
-        'Rodríguez, M., & Sánchez, P. (2020). <em>Marketing digital y analítica web: Conceptos, métricas y estrategias</em>. Ediciones Gestión Actual.',
+        'Rodríguez, M., & Sánchez, P. (2020). <em>Marketing</em> digital y analítica web: Conceptos, métricas y estrategias. Ediciones Gestión Actual.',
       link: '',
     },
     {
       referencia:
-        'SENA. (2025). <em>Guía de gestión de datos y métricas digitales</em>. Servicio Nacional de Aprendizaje.',
+        'SENA. (2025). Guía de gestión de datos y métricas digitales. Servicio Nacional de Aprendizaje.',
       link: '',
     },
   ],
@@ -364,18 +364,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Mario Morales Cabrera',
+          cargo: 'Experto Temático Logística',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Experto Temático Comercio y servicio',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -384,12 +379,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Andrés Felipe Herrera Roldan ',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -410,22 +405,22 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz ',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

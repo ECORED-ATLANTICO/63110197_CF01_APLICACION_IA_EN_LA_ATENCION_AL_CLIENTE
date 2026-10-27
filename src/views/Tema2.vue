@@ -24,8 +24,8 @@
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Figura 2.
       span Criterios de segmentación digital
-    img.mb-5.d-sm-none.z-2(data-aos="fade-up", src="@/assets/curso/tema2/2-mob.png", alt="La figura presenta diferentes criterios utilizados para segmentar a los clientes en entornos digitales. La información permite identificar y agrupar públicos de acuerdo con sus características personales, ubicación, intereses, comportamientos de compra y preferencias tecnológicas. Esta clasificación facilita a las organizaciones comprender mejor a sus clientes, reconocer necesidades y hábitos, personalizar las interacciones y orientar estrategias de atención, comunicación y servicio apoyadas en datos relevantes")
-    img.mb-5.d-none.d-sm-block.z-2(data-aos="fade-up", src="@/assets/curso/tema2/2.png", alt="La figura presenta diferentes criterios utilizados para segmentar a los clientes en entornos digitales. La información permite identificar y agrupar públicos de acuerdo con sus características personales, ubicación, intereses, comportamientos de compra y preferencias tecnológicas. Esta clasificación facilita a las organizaciones comprender mejor a sus clientes, reconocer necesidades y hábitos, personalizar las interacciones y orientar estrategias de atención, comunicación y servicio apoyadas en datos relevantes")
+    img.mb-5.d-sm-none.z-2(data-aos="fade-up", src="@/assets/curso/tema2/2-mob.png", alt="La figura presenta diferentes criterios utilizados para segmentar a los clientes en entornos digitales. La información permite identificar y agrupar públicos de acuerdo con sus características personales, ubicación, intereses, comportamientos de compra y preferencias tecnológicas. Esta clasificación facilita a las organizaciones comprender mejor a sus clientes, reconocer necesidades y hábitos, personalizar las interacciones y orientar estrategias de atención, comunicación y servicio apoyadas en datos relevantes.")
+    img.mb-5.d-none.d-sm-block.z-2(data-aos="fade-up", src="@/assets/curso/tema2/2.png", alt="La figura presenta diferentes criterios utilizados para segmentar a los clientes en entornos digitales. La información permite identificar y agrupar públicos de acuerdo con sus características personales, ubicación, intereses, comportamientos de compra y preferencias tecnológicas. Esta clasificación facilita a las organizaciones comprender mejor a sus clientes, reconocer necesidades y hábitos, personalizar las interacciones y orientar estrategias de atención, comunicación y servicio apoyadas en datos relevantes.")
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
@@ -44,11 +44,11 @@
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
-        p Analizar el comportamiento digital permite anticiparse a las decisiones del cliente, identificar segmentos con mayor potencial de compra y diseñar estrategias personalizadas. Los insights obtenidos también ayudan a prevenir abandono de clientes, mejorar tasas de conversión y optimizar la inversión en marketing. 
+        p Analizar el comportamiento digital permite anticiparse a las decisiones del cliente, identificar segmentos con mayor potencial de compra y diseñar estrategias personalizadas. Los #[em insights] obtenidos también ayudan a prevenir abandono de clientes, mejorar tasas de conversión y optimizar la inversión en #[em marketing]. 
         .bg-img.bg-img--3.p-4.rounded-4.py-3.py-lg-4
           .row.justify-content-center.align-items-center
             .col-xl-10
-              p.mb-0 #[strong Ejemplo ampliado:] Una plataforma de e-learning analiza las interacciones de sus usuarios y detecta que los estudiantes que completan un curso en el primer intento tienden a inscribirse en más cursos. La plataforma decide enviar recomendaciones personalizadas y promociones a estos usuarios, aumentando la retención y las ventas de cursos adicionales.  
+              p.mb-0 #[strong Ejemplo ampliado:] una plataforma de #[em e-learning] analiza las interacciones de sus usuarios y detecta que los estudiantes que completan un curso en el primer intento tienden a inscribirse en más cursos. La plataforma decide enviar recomendaciones personalizadas y promociones a estos usuarios, aumentando la retención y las ventas de cursos adicionales.  
             .col-lg-2.d-none.d-xl-block
               figure
                 img.imgw-110(src="@/assets/curso/tema2/3.png", alt="")
@@ -70,7 +70,7 @@
         p.mb-0 La segmentación digital permite dividir el mercado en grupos específicos de usuarios con características y comportamientos similares. Aplicar criterios adecuados facilita la personalización de estrategias, optimizando recursos y aumentando la efectividad de las campañas digitales. A partir del perfil identificado, se aplican los siguientes criterios: 
 
     .bg-primario-p5.p-4.rounded-4.mb-4.mb-lg-5.z-2
-      p.mb-0 En cuanto a la Experiencia del cliente digital (CX digital) es la percepción que el usuario tiene al interactuar con la marca. Una experiencia satisfactoria se logra mediante: 
+      p.mb-0 En cuanto a la experiencia del cliente digital (CX digital), es la percepción que el usuario tiene al interactuar con la marca. Una experiencia satisfactoria se logra mediante: 
 
     .bg-slider.bg-slider--xl.p-4.z-2.rounded-1.mb-4.mb-lg-5
       SlyderA(tipo="b")
@@ -116,7 +116,7 @@
         .bg-img.bg-img--2.p-4.rounded-4.py-3.py-lg-4
           .row.justify-content-center.align-items-center
             .col-lg-10
-              p.mb-4.mb-lg-0 #[strong Ejemplo práctico]: una tienda de retail online identifica que los usuarios que agregan productos a la cesta, pero no completan la compra suelen abandonar por .col-sm-8falta de información sobre envío y devoluciones. Al mostrar avisos claros de políticas y tiempo de entrega, la tienda aumenta la conversión en un 12%.  
+              p.mb-4.mb-lg-0 #[strong Ejemplo práctico]: una tienda de #[em retail online] identifica que los usuarios que agregan productos a la cesta, pero no completan la compra suelen abandonar por .col-sm-8falta de información sobre envío y devoluciones. Al mostrar avisos claros de políticas y tiempo de entrega, la tienda aumenta la conversión en un 12%.  
             .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-110(src="@/assets/curso/tema2/3.png", alt="")

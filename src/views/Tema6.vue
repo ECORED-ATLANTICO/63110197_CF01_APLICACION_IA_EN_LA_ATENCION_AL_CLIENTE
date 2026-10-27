@@ -26,7 +26,7 @@
       .col-lg-7
         p No todo tipo de gráfico comunica lo mismo. La elección de la representación debe corresponder a la naturaleza del dato. Un error frecuente es utilizar formatos llamativos sin considerar si realmente facilitan comprensión. La coherencia visual implica que la estructura del gráfico ayude a responder una pregunta específica. Por ejemplo, cuando el interés está en observar evolución, la continuidad visual es prioritaria.  
         .bg-secundario-s5.p-4.rounded-4.py-3.mb-4.mb-lg-0
-          p.mb-0 En cambio, cuando se comparan segmentos, la diferenciación clara entre categorías es fundamental. La representación debe permitir que la conclusión principal sea visible sin necesidad de explicaciones extensas 
+          p.mb-0 En cambio, cuando se comparan segmentos, la diferenciación clara entre categorías es fundamental. La representación debe permitir que la conclusión principal sea visible sin necesidad de explicaciones extensas.
       .col-sm-8.col-lg-5.d-none.d-lg-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema6/3.png", alt="")
@@ -68,7 +68,7 @@
             p.mb-0 #[strong Ejemplo]: un directivo recibe indicadores resumidos, mientras el responsable de servicio consulta resultados detallados por canal y periodo. 
 
     p Cuando estas decisiones no se toman con claridad, la visualización pierde coherencia y puede generar interpretaciones contradictorias. 
-    p.mb-4 Definir preguntas estratégicas antes de elaborar una visualización facilita el análisis de la información y evita interpretaciones erróneas. Para ello, es recomendable responder aspectos como
+    p.mb-4 Definir preguntas estratégicas antes de elaborar una visualización facilita el análisis de la información y evita interpretaciones erróneas. Para ello, es recomendable responder aspectos como:
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4.px-4(titulo="¿Qué indicador es prioritario?")
@@ -113,12 +113,6 @@
     separador
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 Reportes estratégicos 
-
-    p La visualización de datos en entornos digitales no debe entenderse como una etapa posterior al análisis, sino como parte integral del proceso estratégico.  
-
-    p Cuando los datos se representan gráficamente, no solo se presentan resultados: se construye una interpretación. Toda visualización implica una decisión sobre qué mostrar, qué omitir y cómo organizar la información para facilitar comprensión.
-
-    p En contextos empresariales donde los indicadores se actualizan constantemente, la claridad visual determina la rapidez con la que una organización puede reaccionar. La representación adecuada reduce la ambigüedad y permite enfocar la atención en aquello que realmente impacta el desempeño. 
  
     img(src="@/assets/curso/tema6/12.png", alt="", data-aos="zoom-in-down")  
     .row.justify-content-center.z-2
@@ -231,22 +225,9 @@
                   h4.mb-1 Análisis de desempeño digital – Nativa Verde 
                   p.mb-0 A manera de informe estratégico, se presenta indicadores clave, comportamiento del cliente y eficiencia del embudo digital para ilustrar cómo identificar oportunidades de optimización de Nativa Verde S.A.S.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Analisis-desempeño.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Analisis-desempeno.pdf')" target="_blank")
                     span Ir al recurso
                     i.fas.fa-file-download
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </template>

@@ -27,7 +27,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
-        p #[strong Concepto de adquisición de clientes]. La adquisición de clientes se refiere al proceso mediante el cual una empresa atrae y convierte nuevos usuarios en clientes reales. Implica inversión en marketing digital, publicidad, contenido, automatización y estrategias comerciales. 
+        p #[strong Concepto de adquisición de clientes]. La adquisición de clientes se refiere al proceso mediante el cual una empresa atrae y convierte nuevos usuarios en clientes reales. Implica inversión en #[em marketing] digital, publicidad, contenido, automatización y estrategias comerciales. 
         .bg-secundario-s5.p-4.rounded-4.py-3.mb-4.mb-lg-0
           .row.justify-content-center.align-items-center
             .col-lg-6
@@ -45,7 +45,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/6.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p Esto tiene una importancia estratégica pues permite evaluar la eficiencia de las campañas digitales, facilita la comparación entre diferentes canales de adquisición, también ayuda a identificar segmentos más rentables y permite optimizar presupuestos de marketing. 
+        p Esto tiene una importancia estratégica pues permite evaluar la eficiencia de las campañas digitales, facilita la comparación entre diferentes canales de adquisición, también ayuda a identificar segmentos más rentables y permite optimizar presupuestos de #[em marketing]. 
         .bg-terciario-t10.p-4.rounded-4.py-3
           p.mb-0 A continuación, se presentan los principales indicadores clave utilizados para medir la conversión y adquisición de clientes, junto con su definición, cálculo y relevancia estratégica. 
     
@@ -66,29 +66,29 @@
                 th Valor estratégico 
             tbody
               tr(style="background-color: #E8EFFE")
-                td #[strong Tasa de conversión.] 
+                td #[strong Tasa de conversión] 
                 td % de usuarios que realizan acción deseada 
                 td (Conversiones / Visitantes) x 100 
                 td 8 % de visitantes compran 
                 td Medir efectividad del sitio. 
               tr
-                td #[strong CAC.] 
-                td Costo de adquirir un cliente. 
+                td #[strong CAC] 
+                td Costo de adquirir un cliente
                 td Inversión / Nuevos clientes 
-                td $ 5.000 / 250 clientes = $ 20 
+                td $5.000 / 250 clientes = $20 
                 td Evaluar eficiencia de inversión. 
               tr(style="background-color: #E8EFFE")
-                td #[strong CPA.] 
+                td #[strong CPA] 
                 td Costo por acción 
                 td Inversión / Acciones 
-                td $ 2.000 / 400 leads. 
+                td $2.000 / 400 #[em leads]. 
                 td Medir rentabilidad de campañas. 
               tr
-                td #[strong CLV.] 
+                td #[strong CLV] 
                 td Valor total que un cliente genera durante su relación con la empresa 
                 td Ingresos promedio x tiempo de relación 
-                td Cliente genera $ 300 en 2 años 
-                td Determinar rentabilidad a largo plazo 
+                td Cliente genera $300 en 2 años 
+                td Determinar rentabilidad a largo plazo.
         figcaption Nota. Adaptada de Chunir Panjon et al., (2024). 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -96,7 +96,7 @@
         .bg-img.bg-img--5.p-4.rounded-4
           .row.justify-content-center.align-items-center
             .col-lg-6
-              p.mb-4.mb-lg-0.ps-xl-3 Ejemplo práctico. Una empresa invierte $10,000 en campañas digitales durante un mes y obtiene 400 nuevos clientes. 
+              p.mb-4.mb-lg-0.ps-xl-3 Ejemplo práctico. Una empresa invierte $10.000 en campañas digitales durante un mes y obtiene 400 nuevos clientes. 
             .col-sm-9.col-lg-4
               figure
                 img(src="@/assets/curso/tema4/7.svg", alt="")
@@ -104,7 +104,7 @@
               figure
                 img.imgw-110(src="@/assets/curso/tema4/8.png", alt="")
     
-    p.mb-0 El costo de adquisición por cliente es de $ 25. Si el valor promedio de compra es $ 120, la estrategia es rentable, pero aún puede optimizarse reduciendo costos o aumentando conversión.
+    p.mb-0 El costo de adquisición por cliente es de $25. Si el valor promedio de compra es $120, la estrategia es rentable, pero aún puede optimizarse reduciendo costos o aumentando conversión.
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -115,7 +115,7 @@
       .col-lg-7
         p La rentabilidad digital es uno de los objetivos centrales de cualquier estrategia basada en datos. No basta con generar tráfico o interacción; es fundamental que esas acciones se traduzcan en resultados económicos sostenibles. 
         .bg-secundario-s5.p-4.rounded-4.py-3.mb-4.mb-lg-0
-          p.mb-0 Medir la rentabilidad implica analizar cómo los esfuerzos de marketing, ventas y experiencia digital contribuyen a generar ingresos, optimizar costos y maximizar el retorno de inversión (ROI). 
+          p.mb-0 Medir la rentabilidad implica analizar cómo los esfuerzos de #[em marketing], ventas y experiencia digital contribuyen a generar ingresos, optimizar costos y maximizar el retorno de inversión (ROI). 
       .col-sm-8.col-lg-5
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema4/9.png", alt="")
@@ -162,7 +162,7 @@
         .bg-img.bg-img--6.p-4.rounded-4.py-3.py-lg-4
           .row.justify-content-center.align-items-center
             .col-lg-4
-              p.mb-4.mb-lg-0 #[strong Ejemplo práctico]: una campaña publicitaria genera $ 15,000 en ventas con una inversión de $ 5,000.
+              p.mb-4.mb-lg-0 #[strong Ejemplo práctico]: una campaña publicitaria genera $15.000 en ventas con una inversión de $5.000.
             .col-sm-8.col-lg-6
               figure
                 img(src="@/assets/curso/tema4/19.svg", alt="")
@@ -236,21 +236,21 @@
                 th Ejemplo práctico 
             tbody
               tr(style="background-color: #E8EFFE")
-                td #[strong Pruebas A/B.] 
+                td #[strong Pruebas A/B] 
                 td Comparación de dos versiones de una página 
                 td Aumento de conversión 
-                td Cambio de botón rojo a verde mejora 5 % conversiones. 
+                td Cambio de botón rojo a verde mejora 5 % conversiones
               tr
-                td #[strong Segmentación avanzada.] 
+                td #[strong Segmentación avanzada] 
                 td Ajuste de públicos objetivos 
                 td Reducción de CAC 
                 td Enfocar anuncios en clientes recurrentes 
 
               tr(style="background-color: #E8EFFE")
-                td #[strong Mejora UX.] 
+                td #[strong Mejora UX] 
                 td Optimización de navegación y velocidad 
                 td Disminución de rebote 
-                td Reducir tiempo de carga a 2 segundos. 
+                td Reducir tiempo de carga a 2 segundos
               tr
                 td #[strong Automatización]
                 td Uso de herramientas CRM y #[em email marketing] 
@@ -269,16 +269,16 @@
               ul.lista-ul--color.mb-0
                 li.mb-0
                   i.lista-ul__vineta
-                  | Inversión mensual en #[em marketing]: $ 8.000. 
+                  | Inversión mensual en #[em marketing]: $8.000. 
                 li.mb-0
                   i.lista-ul__vineta
                   | Nuevos clientes: 320.  
                 li.mb-0
                   i.lista-ul__vineta
-                  | CAC: $ 25. 
+                  | CAC: $25. 
                 li.mb-0
                   i.lista-ul__vineta
-                  | Ingreso promedio por cliente: $ 150. 
+                  | Ingreso promedio por cliente: $150. 
                 li.mb-0
                   i.lista-ul__vineta
                   | ROI mensual: 180 %.  
@@ -286,7 +286,7 @@
               figure
                 img(src="@/assets/curso/tema2/3.png", alt="")
       .col-lg-6
-        p Al mejorar la segmentación y optimizar la página web, la empresa reduce el CAC a $ 20 y aumenta la conversión al 10 %, incrementando la rentabilidad general sin aumentar la inversión. 
+        p Al mejorar la segmentación y optimizar la página web, la empresa reduce el CAC a $20 y aumenta la conversión al 10 %, incrementando la rentabilidad general sin aumentar la inversión. 
         .tarjeta.bg-secundario-s5.p-4.py-3
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
@@ -296,14 +296,6 @@
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=k2lL8JMg98E" target="_blank")
                 span Ir al recurso
                 i.fas.fa-file-download
-
-
-
-
-
-
-
-
 
 </template>
 

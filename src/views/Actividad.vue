@@ -400,7 +400,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Leads generados.',
+              texto: '<em>Leads</em> generados.',
               esCorrecta: false,
             },
             {
@@ -453,7 +453,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La conversión permite identificar la efectividad de una estrategia digital.',
+            'La conversión permite identificar la efectividad de una estrategia digital.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

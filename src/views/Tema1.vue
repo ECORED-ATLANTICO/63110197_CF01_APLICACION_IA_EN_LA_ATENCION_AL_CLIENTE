@@ -33,14 +33,14 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema1/3.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los datos estratégicos son aquellos que poseen un valor real para la toma de decisiones y la planificación de estrategias empresariales. Su relevancia se mide no por la cantidad, sino por la calidad, relevancia y capacidad de transformación en información útil. Un dato aislado tiene poco valor; sin embargo, cuando se organiza, se analiza y se cruza con otras fuentes, se convierte en un activo estratégico, capaz de generar insights y orientar la estrategia corporativa.
+        p.mb-0 Los datos estratégicos son aquellos que poseen un valor real para la toma de decisiones y la planificación de estrategias empresariales. Su relevancia se mide no por la cantidad, sino por la calidad, relevancia y capacidad de transformación en información útil. Un dato aislado tiene poco valor; sin embargo, cuando se organiza, se analiza y se cruza con otras fuentes, se convierte en un activo estratégico, capaz de generar #[em insights] y orientar la estrategia corporativa.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon.png")
         h3.titulo-con-imagen__texto Importancia en la toma de decisiones
 
-    p.mb-5.z-2 A continuación, se relaciona los elementos que hacen parte de los datos estratégicos 
+    p.mb-5.z-2 A continuación, se relacionan los elementos que hacen parte de los datos estratégicos:
 
     .fullwidth-bg.fullwidth-bg--1
     .titulo-sexto.color-acento-contenido.mb-4.z-2
@@ -54,7 +54,7 @@
         .bg-img.p-4.rounded-4.py-3.py-lg-4
           .row.justify-content-center.align-items-center
             .col-lg-10
-              p.mb-0 #[strong Ejemplo práctico]: una empresa de retail analiza los datos de navegación y compra de sus clientes durante tres meses. Identifica que los productos de tecnología tienen un pico de demanda durante los fines de semana, mientras que la ropa se vende más en días de semana. Con este insight, la empresa puede ajustar promociones, inventario y estrategias de envío para cada categoría, aumentando ventas y reduciendo costos logísticos. 
+              p.mb-0 #[strong Ejemplo práctico]: una empresa de #[em retail] analiza los datos de navegación y compra de sus clientes durante tres meses. Identifica que los productos de tecnología tienen un pico de demanda durante los fines de semana, mientras que la ropa se vende más en días de semana. Con este #[em insight], la empresa puede ajustar promociones, inventario y estrategias de envío para cada categoría, aumentando ventas y reduciendo costos logísticos. 
             .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-110(src="@/assets/curso/tema1/5.png", alt="")
@@ -80,11 +80,11 @@
           .tarjeta.p-4.bg-secundario-s5.py-5(titulo="CRM <em>(Customer Relationship Management)</em>: ")
             p.mb-0 Almacena información de clientes, historial de compras, preferencias y solicitudes de servicio. Estos datos permiten segmentar clientes, personalizar promociones y fortalecer las estrategias de fidelización. 
           .tarjeta.p-4.bg-secundario-s5.py-5(titulo="ERP <em>(Enterprise Resource Planning)</em>: ")
-            p.mb-0 Integra información sobre inventarios, órdenes de compra, facturación y pagos. Su análisis facilita la planificación de la producción, el control de existencias y la optimización de los recursos 
+            p.mb-0 Integra información sobre inventarios, órdenes de compra, facturación y pagos. Su análisis facilita la planificación de la producción, el control de existencias y la optimización de los recursos.
           .tarjeta.p-4.bg-secundario-s5.py-5(titulo="Datos operativos y financieros: ")
             p.mb-0 Incluyen costos, gastos, ingresos y balances. Son utilizados para evaluar el desempeño financiero, controlar recursos y apoyar la planeación estratégica de la organización.  
           .tarjeta.p-4.bg-secundario-s5.py-5(titulo="Interacciones de atención al cliente: ")
-            p.mb-0 Comprenden correos electrónicos, chats, llamadas y tickets de soporte. Su análisis permite identificar oportunidades de mejora, optimizar los procesos de atención y aumentar la satisfacción del cliente. 
+            p.mb-0 Comprenden correos electrónicos, #[em chats], llamadas y #[em tickets] de soporte. Su análisis permite identificar oportunidades de mejora, optimizar los procesos de atención y aumentar la satisfacción del cliente. 
       .col-sm-6.col-lg-4.d-none.d-xl-block
         figure
           img(src="@/assets/curso/tema1/7.png", alt="" data-aos="zoom-in-down")
@@ -110,7 +110,7 @@
               p.mb-0 Recopilan comentarios, reacciones, menciones e indicadores de interacción (#[em engagement]). Esta información permite evaluar la reputación de la marca, conocer la percepción de los clientes e identificar tendencias de comportamiento. 
             .tarjeta.tarjeta--blanca.p-lg-4.rounded-4.p-lg-5
               h5.mb-4 Estudios de mercado 
-              p.mb-0 Incluyen encuestas, investigaciones sectoriales y reportes especializados. Su análisis facilita el benchmarking, la identificación de oportunidades y el diseño de estrategias comerciales. 
+              p.mb-0 Incluyen encuestas, investigaciones sectoriales y reportes especializados. Su análisis facilita el #[em benchmarking], la identificación de oportunidades y el diseño de estrategias comerciales. 
             .tarjeta.tarjeta--blanca.p-lg-4.rounded-4.p-lg-5
               h5.mb-4 Datos gubernamentales 
               p.mb-0 Comprenden estadísticas demográficas, indicadores económicos y normatividad vigente. Estos datos apoyan la planeación de inversiones, el análisis del entorno y la toma de decisiones estratégicas. 
@@ -230,7 +230,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4
         div.banner-text.shadow.bg-terciario-t10.mb-3
-          p.mb-0 La captura de pantalla de la página principal de Google Cloud en español presenta el mensaje “La nueva forma de usar la nube comienza aquí”. La interfaz muestra opciones para comenzar gratis o contactar ventas, junto a un video destacado sobre inteligencia artificial y plataforma #[em multicloud]. La página resalta servicios de computación en la nube orientados a la creación de aplicaciones, análisis de datos y seguridad empresarial. 
+          p.mb-0 La página principal de Google Cloud en español presenta el mensaje “La nueva forma de usar la nube comienza aquí”. La interfaz muestra opciones para comenzar gratis o contactar ventas, junto a un video destacado sobre inteligencia artificial y plataforma #[em multicloud]. La página resalta servicios de computación en la nube orientados a la creación de aplicaciones, análisis de datos y seguridad empresarial. 
 
     .fullwidth-bg.fullwidth-bg--1
     .titulo-con-imagen.mb-5.z-2(data-aos="fade-right")
@@ -312,7 +312,7 @@
             p.mb-0 Registros duplicados de clientes antiguos y actualiza información faltante. 
 
     .bg-contenido-a20.rounded-4.p-4.py-3.mb-4.mb-lg-5.z-2
-      p.mb-0 #[strong Resultado]: la empresa aumenta un 15% la conversión, optimiza el inventario y mejora la eficiencia de sus campañas digitales. Esto demuestra cómo el ciclo completo del dato agrega valor estratégico real. 
+      p.mb-0 #[strong Resultado]: la empresa aumenta un 15 % la conversión, optimiza el inventario y mejora la eficiencia de sus campañas digitales. Esto demuestra cómo el ciclo completo del dato agrega valor estratégico real. 
 
     .row.justify-content-center.z-2
       .col-xl-10
@@ -324,7 +324,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Metodologías de trabajo y ciclo de vida de los datos - Data Science
+                  h4.mb-1 Metodologías de trabajo y ciclo de vida de los datos - #[em Data Science]
                   p.mb-0 Dar clic en el enlace de este video para continuar con la explicación del ciclo de vida del dato y comprender de manera más amplia cómo se implementa la gestión de datos a lo largo de sus diferentes fases: 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=shdBRha_fi4" target="_blank")
