@@ -116,7 +116,7 @@
         .bg-img.bg-img--2.p-4.rounded-4.py-3.py-lg-4
           .row.justify-content-center.align-items-center
             .col-lg-10
-              p.mb-4.mb-lg-0 #[strong Ejemplo práctico]: una tienda de #[em retail online] identifica que los usuarios que agregan productos a la cesta, pero no completan la compra suelen abandonar por .col-sm-8falta de información sobre envío y devoluciones. Al mostrar avisos claros de políticas y tiempo de entrega, la tienda aumenta la conversión en un 12 %.  
+              p.mb-4.mb-lg-0 #[strong Ejemplo práctico]: una tienda de #[em retail online] identifica que los usuarios que agregan productos a la cesta, pero no completan la compra suelen abandonar por falta de información sobre envío y devoluciones. Al mostrar avisos claros de políticas y tiempo de entrega, la tienda aumenta la conversión en un 12 %.  
             .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-110(src="@/assets/curso/tema2/3.png", alt="")
